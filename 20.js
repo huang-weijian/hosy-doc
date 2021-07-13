@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{628:function(e,i,o){"use strict";o.r(i);var t=o(11),c=o(527),n=o(528);function d(e){return Object(t.jsxs)("div",{children:[Object(t.jsx)(c.a,{title:"switch"},void 0),Object(t.jsx)(n.o,{value:!0},void 0),Object(t.jsx)(n.o,{activeColor:"red",inactiveColor:"black",onChange:function(e){return console.info(e)}},void 0),Object(t.jsx)(c.a,{title:"disabled"},void 0),Object(t.jsx)(n.o,{value:!0,disabled:!0},void 0)]},void 0)}!function(e){e.displayName="DemoSwitch"}(d||(d={})),i.default=d}}]);
+//# sourceMappingURL=20.js.map
